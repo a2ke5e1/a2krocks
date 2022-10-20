@@ -19,7 +19,7 @@
 <a href="https://stackoverflow.com/users/8656729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8656729" height="30" width="40" /></a>
 <a href="https://codesandbox.com/a2krocks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="a2krocks" height="30" width="40" /></a>
 <a href="https://instagram.com/a2krocks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a2krocks" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aa2krocks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aa2krocks" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/a2krocks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a2krocks" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/a2krocks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a2krocks" height="30" width="40" /></a>
 </p>
 
