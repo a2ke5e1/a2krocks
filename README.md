@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apurv Ajay Kumar</h1>
 <h3 align="center">Learning to be android developer and UX designer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a2krocks&label=Profile%20views&color=0e75b6&style=flat" alt="a2krocks" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a2krocks" alt="a2krocks" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/a2krocks" target="blank"><img src="https://img.shields.io/twitter/follow/a2krocks?logo=twitter&style=for-the-badge" alt="a2krocks" /></a> </p>
 
